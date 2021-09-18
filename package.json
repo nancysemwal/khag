@@ -1,0 +1,14 @@
+{
+  "name": "khag",
+  "version": "1.0.0",
+  "description": "This is a NodeJS API to create apps for communicating with vehicles over MAVLINK. ",
+  "main": "index.cjs",
+  "author": "Nancy Semwal",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "node-mavlink": "^1.0.2",
+    "serialport": "^9.2.0"
+  }
+}
